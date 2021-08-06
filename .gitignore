@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Keys
-*config.py
-*_config.py
+# Adding config.py file.
+config.py
